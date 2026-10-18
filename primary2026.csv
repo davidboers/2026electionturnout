@@ -1,0 +1,721 @@
+Race,Gender,Party,Age Group,Voter Count
+White,Female,Republican,18-24,9147
+White,Female,Republican,25-29,7839
+White,Female,Republican,30-34,11062
+White,Female,Republican,35-39,15538
+White,Female,Republican,40-44,20152
+White,Female,Republican,45-49,24719
+White,Female,Republican,50-54,36835
+White,Female,Republican,55-59,45640
+White,Female,Republican,60-64,57247
+White,Female,Republican,65-69,59537
+White,Female,Republican,70-74,52615
+White,Female,Republican,75-79,40921
+White,Female,Republican,80-84,21104
+White,Female,Republican,85-89,7714
+White,Female,Republican,90-94,1821
+White,Female,Republican,95-99,283
+White,Female,Republican,100+,15
+White,Female,Democratic,18-24,10620
+White,Female,Democratic,25-29,10707
+White,Female,Democratic,30-34,13075
+White,Female,Democratic,35-39,13030
+White,Female,Democratic,40-44,12223
+White,Female,Democratic,45-49,11523
+White,Female,Democratic,50-54,12632
+White,Female,Democratic,55-59,12547
+White,Female,Democratic,60-64,15101
+White,Female,Democratic,65-69,16999
+White,Female,Democratic,70-74,15941
+White,Female,Democratic,75-79,11565
+White,Female,Democratic,80-84,5126
+White,Female,Democratic,85-89,1762
+White,Female,Democratic,90-94,499
+White,Female,Democratic,95-99,92
+White,Female,Democratic,100+,8
+White,Female,Nonpartisan,18-24,545
+White,Female,Nonpartisan,25-29,497
+White,Female,Nonpartisan,30-34,619
+White,Female,Nonpartisan,35-39,783
+White,Female,Nonpartisan,40-44,845
+White,Female,Nonpartisan,45-49,810
+White,Female,Nonpartisan,50-54,901
+White,Female,Nonpartisan,55-59,786
+White,Female,Nonpartisan,60-64,861
+White,Female,Nonpartisan,65-69,853
+White,Female,Nonpartisan,70-74,705
+White,Female,Nonpartisan,75-79,470
+White,Female,Nonpartisan,80-84,210
+White,Female,Nonpartisan,85-89,83
+White,Female,Nonpartisan,90-94,19
+White,Female,Nonpartisan,95-99,3
+White,Female,Nonpartisan,100+,2
+White,Male,Republican,18-24,10255
+White,Male,Republican,25-29,8518
+White,Male,Republican,30-34,10891
+White,Male,Republican,35-39,14742
+White,Male,Republican,40-44,19378
+White,Male,Republican,45-49,24280
+White,Male,Republican,50-54,36565
+White,Male,Republican,55-59,45934
+White,Male,Republican,60-64,57660
+White,Male,Republican,65-69,58423
+White,Male,Republican,70-74,50896
+White,Male,Republican,75-79,40038
+White,Male,Republican,80-84,20690
+White,Male,Republican,85-89,6933
+White,Male,Republican,90-94,1423
+White,Male,Republican,95-99,147
+White,Male,Republican,100+,5
+White,Male,Democratic,18-24,6864
+White,Male,Democratic,25-29,7260
+White,Male,Democratic,30-34,9364
+White,Male,Democratic,35-39,9465
+White,Male,Democratic,40-44,8556
+White,Male,Democratic,45-49,7696
+White,Male,Democratic,50-54,8643
+White,Male,Democratic,55-59,8609
+White,Male,Democratic,60-64,9779
+White,Male,Democratic,65-69,11001
+White,Male,Democratic,70-74,10842
+White,Male,Democratic,75-79,7909
+White,Male,Democratic,80-84,3624
+White,Male,Democratic,85-89,1115
+White,Male,Democratic,90-94,262
+White,Male,Democratic,95-99,24
+White,Male,Nonpartisan,18-24,691
+White,Male,Nonpartisan,25-29,632
+White,Male,Nonpartisan,30-34,838
+White,Male,Nonpartisan,35-39,958
+White,Male,Nonpartisan,40-44,991
+White,Male,Nonpartisan,45-49,926
+White,Male,Nonpartisan,50-54,1000
+White,Male,Nonpartisan,55-59,965
+White,Male,Nonpartisan,60-64,1054
+White,Male,Nonpartisan,65-69,1023
+White,Male,Nonpartisan,70-74,759
+White,Male,Nonpartisan,75-79,578
+White,Male,Nonpartisan,80-84,254
+White,Male,Nonpartisan,85-89,83
+White,Male,Nonpartisan,90-94,10
+White,Other,Republican,18-24,94
+White,Other,Republican,25-29,48
+White,Other,Republican,30-34,21
+White,Other,Republican,35-39,15
+White,Other,Republican,40-44,22
+White,Other,Republican,45-49,22
+White,Other,Republican,50-54,33
+White,Other,Republican,55-59,32
+White,Other,Republican,60-64,51
+White,Other,Republican,65-69,51
+White,Other,Republican,70-74,21
+White,Other,Republican,75-79,34
+White,Other,Republican,80-84,12
+White,Other,Republican,85-89,5
+White,Other,Republican,90-94,1
+White,Other,Republican,100+,1
+White,Other,Democratic,18-24,143
+White,Other,Democratic,25-29,60
+White,Other,Democratic,30-34,40
+White,Other,Democratic,35-39,40
+White,Other,Democratic,40-44,15
+White,Other,Democratic,45-49,15
+White,Other,Democratic,50-54,15
+White,Other,Democratic,55-59,18
+White,Other,Democratic,60-64,21
+White,Other,Democratic,65-69,25
+White,Other,Democratic,70-74,20
+White,Other,Democratic,75-79,11
+White,Other,Democratic,80-84,2
+White,Other,Democratic,85-89,1
+White,Other,Nonpartisan,18-24,8
+White,Other,Nonpartisan,25-29,3
+White,Other,Nonpartisan,30-34,1
+White,Other,Nonpartisan,35-39,2
+White,Other,Nonpartisan,40-44,3
+White,Other,Nonpartisan,45-49,1
+White,Other,Nonpartisan,50-54,4
+White,Other,Nonpartisan,55-59,1
+White,Other,Nonpartisan,60-64,2
+White,Other,Nonpartisan,65-69,1
+White,Other,Nonpartisan,70-74,2
+Black,Female,Democratic,18-24,22006
+Black,Female,Democratic,25-29,17336
+Black,Female,Democratic,30-34,22146
+Black,Female,Democratic,35-39,25828
+Black,Female,Democratic,40-44,32099
+Black,Female,Democratic,45-49,35460
+Black,Female,Democratic,50-54,42686
+Black,Female,Democratic,55-59,44379
+Black,Female,Democratic,60-64,46216
+Black,Female,Democratic,65-69,41671
+Black,Female,Democratic,70-74,32793
+Black,Female,Democratic,75-79,19501
+Black,Female,Democratic,80-84,8495
+Black,Female,Democratic,85-89,3339
+Black,Female,Democratic,90-94,970
+Black,Female,Democratic,95-99,213
+Black,Female,Democratic,100+,26
+Black,Female,Republican,18-24,208
+Black,Female,Republican,25-29,205
+Black,Female,Republican,30-34,339
+Black,Female,Republican,35-39,421
+Black,Female,Republican,40-44,593
+Black,Female,Republican,45-49,708
+Black,Female,Republican,50-54,837
+Black,Female,Republican,55-59,924
+Black,Female,Republican,60-64,1027
+Black,Female,Republican,65-69,906
+Black,Female,Republican,70-74,601
+Black,Female,Republican,75-79,315
+Black,Female,Republican,80-84,123
+Black,Female,Republican,85-89,34
+Black,Female,Republican,90-94,6
+Black,Female,Republican,95-99,0
+Black,Female,Nonpartisan,18-24,358
+Black,Female,Nonpartisan,25-29,309
+Black,Female,Nonpartisan,30-34,411
+Black,Female,Nonpartisan,35-39,466
+Black,Female,Nonpartisan,40-44,510
+Black,Female,Nonpartisan,45-49,479
+Black,Female,Nonpartisan,50-54,492
+Black,Female,Nonpartisan,55-59,421
+Black,Female,Nonpartisan,60-64,313
+Black,Female,Nonpartisan,65-69,231
+Black,Female,Nonpartisan,70-74,145
+Black,Female,Nonpartisan,75-79,82
+Black,Female,Nonpartisan,80-84,38
+Black,Female,Nonpartisan,85-89,9
+Black,Female,Nonpartisan,90-94,3
+Black,Female,Nonpartisan,95-99,2
+Black,Male,Democratic,18-24,12071
+Black,Male,Democratic,25-29,8358
+Black,Male,Democratic,30-34,9970
+Black,Male,Democratic,35-39,11345
+Black,Male,Democratic,40-44,13898
+Black,Male,Democratic,45-49,16922
+Black,Male,Democratic,50-54,23554
+Black,Male,Democratic,55-59,26072
+Black,Male,Democratic,60-64,27856
+Black,Male,Democratic,65-69,25315
+Black,Male,Democratic,70-74,19210
+Black,Male,Democratic,75-79,11477
+Black,Male,Democratic,80-84,4854
+Black,Male,Democratic,85-89,1546
+Black,Male,Democratic,90-94,382
+Black,Male,Democratic,95-99,59
+Black,Male,Democratic,100+,7
+Black,Male,Republican,18-24,315
+Black,Male,Republican,25-29,280
+Black,Male,Republican,30-34,369
+Black,Male,Republican,35-39,476
+Black,Male,Republican,40-44,662
+Black,Male,Republican,45-49,798
+Black,Male,Republican,50-54,982
+Black,Male,Republican,55-59,1045
+Black,Male,Republican,60-64,1106
+Black,Male,Republican,65-69,947
+Black,Male,Republican,70-74,593
+Black,Male,Republican,75-79,352
+Black,Male,Republican,80-84,146
+Black,Male,Republican,85-89,31
+Black,Male,Republican,90-94,4
+Black,Male,Republican,95-99,1
+Black,Other,Nonpartisan,18-24,5
+Black,Other,Nonpartisan,25-29,3
+Black,Other,Nonpartisan,35-39,5
+Black,Other,Nonpartisan,40-44,2
+Black,Other,Nonpartisan,45-49,2
+Black,Other,Nonpartisan,50-54,1
+Black,Other,Nonpartisan,65-69,1
+Black,Other,Nonpartisan,70-74,1
+Black,Male,Nonpartisan,18-24,426
+Black,Male,Nonpartisan,25-29,405
+Black,Male,Nonpartisan,30-34,505
+Black,Male,Nonpartisan,35-39,566
+Black,Male,Nonpartisan,40-44,694
+Black,Male,Nonpartisan,45-49,787
+Black,Male,Nonpartisan,50-54,794
+Black,Male,Nonpartisan,55-59,632
+Black,Male,Nonpartisan,60-64,508
+Black,Male,Nonpartisan,65-69,319
+Black,Male,Nonpartisan,70-74,218
+Black,Male,Nonpartisan,75-79,106
+Black,Male,Nonpartisan,80-84,40
+Black,Male,Nonpartisan,85-89,10
+Black,Other,Democratic,18-24,162
+Black,Other,Democratic,25-29,55
+Black,Other,Democratic,30-34,46
+Black,Other,Democratic,35-39,30
+Black,Other,Democratic,40-44,50
+Black,Other,Democratic,45-49,35
+Black,Other,Democratic,50-54,36
+Black,Other,Democratic,55-59,55
+Black,Other,Democratic,60-64,50
+Black,Other,Democratic,65-69,43
+Black,Other,Democratic,70-74,16
+Black,Other,Democratic,75-79,17
+Black,Other,Democratic,80-84,11
+Black,Other,Democratic,90-94,1
+Black,Other,Democratic,100+,1
+Black,Other,Republican,18-24,1
+Black,Other,Republican,40-44,3
+Black,Other,Republican,50-54,3
+Black,Other,Republican,75-79,2
+Other/Unknown,Female,Democratic,18-24,3546
+Other/Unknown,Female,Democratic,25-29,3294
+Other/Unknown,Female,Democratic,30-34,4911
+Other/Unknown,Female,Democratic,35-39,6336
+Other/Unknown,Female,Democratic,40-44,7605
+Other/Unknown,Female,Democratic,45-49,7336
+Other/Unknown,Female,Democratic,50-54,7556
+Other/Unknown,Female,Democratic,55-59,6807
+Other/Unknown,Female,Democratic,60-64,6552
+Other/Unknown,Female,Democratic,65-69,5235
+Other/Unknown,Female,Democratic,70-74,3896
+Other/Unknown,Female,Democratic,75-79,2438
+Other/Unknown,Female,Democratic,80-84,1019
+Other/Unknown,Female,Democratic,85-89,350
+Other/Unknown,Female,Democratic,90-94,126
+Other/Unknown,Female,Democratic,95-99,22
+Other/Unknown,Female,Democratic,100+,5
+Other/Unknown,Female,Republican,18-24,625
+Other/Unknown,Female,Republican,25-29,608
+Other/Unknown,Female,Republican,30-34,953
+Other/Unknown,Female,Republican,35-39,1587
+Other/Unknown,Female,Republican,40-44,2171
+Other/Unknown,Female,Republican,45-49,2410
+Other/Unknown,Female,Republican,50-54,3226
+Other/Unknown,Female,Republican,55-59,3601
+Other/Unknown,Female,Republican,60-64,4233
+Other/Unknown,Female,Republican,65-69,3704
+Other/Unknown,Female,Republican,70-74,2958
+Other/Unknown,Female,Republican,75-79,2132
+Other/Unknown,Female,Republican,80-84,1098
+Other/Unknown,Female,Republican,85-89,373
+Other/Unknown,Female,Republican,90-94,76
+Other/Unknown,Female,Republican,95-99,13
+Other/Unknown,Female,Republican,100+,2
+Other/Unknown,Female,Nonpartisan,18-24,162
+Other/Unknown,Female,Nonpartisan,25-29,135
+Other/Unknown,Female,Nonpartisan,30-34,232
+Other/Unknown,Female,Nonpartisan,35-39,298
+Other/Unknown,Female,Nonpartisan,40-44,354
+Other/Unknown,Female,Nonpartisan,45-49,319
+Other/Unknown,Female,Nonpartisan,50-54,308
+Other/Unknown,Female,Nonpartisan,55-59,213
+Other/Unknown,Female,Nonpartisan,60-64,185
+Other/Unknown,Female,Nonpartisan,65-69,121
+Other/Unknown,Female,Nonpartisan,70-74,95
+Other/Unknown,Female,Nonpartisan,75-79,54
+Other/Unknown,Female,Nonpartisan,80-84,22
+Other/Unknown,Female,Nonpartisan,85-89,1
+Other/Unknown,Female,Nonpartisan,90-94,1
+Other/Unknown,Male,Democratic,18-24,1994
+Other/Unknown,Male,Democratic,25-29,1736
+Other/Unknown,Male,Democratic,30-34,2545
+Other/Unknown,Male,Democratic,35-39,3282
+Other/Unknown,Male,Democratic,40-44,3740
+Other/Unknown,Male,Democratic,45-49,3788
+Other/Unknown,Male,Democratic,50-54,4180
+Other/Unknown,Male,Democratic,55-59,4028
+Other/Unknown,Male,Democratic,60-64,3843
+Other/Unknown,Male,Democratic,65-69,3216
+Other/Unknown,Male,Democratic,70-74,2492
+Other/Unknown,Male,Democratic,75-79,1571
+Other/Unknown,Male,Democratic,80-84,659
+Other/Unknown,Male,Democratic,85-89,196
+Other/Unknown,Male,Democratic,90-94,39
+Other/Unknown,Male,Democratic,95-99,3
+Other/Unknown,Male,Republican,18-24,852
+Other/Unknown,Male,Republican,25-29,818
+Other/Unknown,Male,Republican,30-34,1192
+Other/Unknown,Male,Republican,35-39,1916
+Other/Unknown,Male,Republican,40-44,2608
+Other/Unknown,Male,Republican,45-49,2856
+Other/Unknown,Male,Republican,50-54,3736
+Other/Unknown,Male,Republican,55-59,4201
+Other/Unknown,Male,Republican,60-64,4828
+Other/Unknown,Male,Republican,65-69,4395
+Other/Unknown,Male,Republican,70-74,3186
+Other/Unknown,Male,Republican,75-79,2339
+Other/Unknown,Male,Republican,80-84,1158
+Other/Unknown,Male,Republican,85-89,393
+Other/Unknown,Male,Republican,90-94,85
+Other/Unknown,Male,Republican,95-99,5
+Other/Unknown,Male,Nonpartisan,18-24,169
+Other/Unknown,Male,Nonpartisan,25-29,165
+Other/Unknown,Male,Nonpartisan,30-34,275
+Other/Unknown,Male,Nonpartisan,35-39,418
+Other/Unknown,Male,Nonpartisan,40-44,451
+Other/Unknown,Male,Nonpartisan,45-49,420
+Other/Unknown,Male,Nonpartisan,50-54,381
+Other/Unknown,Male,Nonpartisan,55-59,317
+Other/Unknown,Male,Nonpartisan,60-64,274
+Other/Unknown,Male,Nonpartisan,65-69,184
+Other/Unknown,Male,Nonpartisan,70-74,133
+Other/Unknown,Male,Nonpartisan,75-79,75
+Other/Unknown,Male,Nonpartisan,80-84,26
+Other/Unknown,Male,Nonpartisan,85-89,8
+Other/Unknown,Male,Nonpartisan,90-94,1
+Other/Unknown,Male,Nonpartisan,95-99,1
+Other/Unknown,Other,Democratic,18-24,248
+Other/Unknown,Other,Democratic,25-29,75
+Other/Unknown,Other,Democratic,30-34,57
+Other/Unknown,Other,Democratic,35-39,62
+Other/Unknown,Other,Democratic,40-44,48
+Other/Unknown,Other,Democratic,45-49,48
+Other/Unknown,Other,Democratic,50-54,47
+Other/Unknown,Other,Democratic,55-59,47
+Other/Unknown,Other,Democratic,60-64,50
+Other/Unknown,Other,Democratic,65-69,34
+Other/Unknown,Other,Democratic,70-74,19
+Other/Unknown,Other,Democratic,75-79,16
+Other/Unknown,Other,Democratic,80-84,14
+Other/Unknown,Other,Democratic,85-89,4
+Other/Unknown,Other,Democratic,90-94,2
+Other/Unknown,Other,Democratic,100+,2
+Other/Unknown,Other,Republican,18-24,98
+Other/Unknown,Other,Republican,25-29,14
+Other/Unknown,Other,Republican,30-34,11
+Other/Unknown,Other,Republican,35-39,16
+Other/Unknown,Other,Republican,40-44,22
+Other/Unknown,Other,Republican,45-49,25
+Other/Unknown,Other,Republican,50-54,18
+Other/Unknown,Other,Republican,55-59,29
+Other/Unknown,Other,Republican,60-64,38
+Other/Unknown,Other,Republican,65-69,30
+Other/Unknown,Other,Republican,70-74,26
+Other/Unknown,Other,Republican,75-79,18
+Other/Unknown,Other,Republican,80-84,7
+Other/Unknown,Other,Republican,85-89,1
+Other/Unknown,Other,Republican,90-94,3
+Other/Unknown,Other,Republican,95-99,0
+Other/Unknown,Other,Nonpartisan,18-24,12
+Other/Unknown,Other,Nonpartisan,25-29,6
+Other/Unknown,Other,Nonpartisan,30-34,4
+Other/Unknown,Other,Nonpartisan,35-39,4
+Other/Unknown,Other,Nonpartisan,40-44,3
+Other/Unknown,Other,Nonpartisan,45-49,6
+Other/Unknown,Other,Nonpartisan,50-54,4
+Other/Unknown,Other,Nonpartisan,55-59,6
+Other/Unknown,Other,Nonpartisan,65-69,1
+Other/Unknown,Other,Nonpartisan,80-84,2
+Hispanic/Latino,Female,Democratic,18-24,4842
+Hispanic/Latino,Female,Democratic,25-29,2365
+Hispanic/Latino,Female,Democratic,30-34,1906
+Hispanic/Latino,Female,Democratic,35-39,1383
+Hispanic/Latino,Female,Democratic,40-44,1277
+Hispanic/Latino,Female,Democratic,45-49,1211
+Hispanic/Latino,Female,Democratic,50-54,1178
+Hispanic/Latino,Female,Democratic,55-59,1073
+Hispanic/Latino,Female,Democratic,60-64,874
+Hispanic/Latino,Female,Democratic,65-69,688
+Hispanic/Latino,Female,Democratic,70-74,447
+Hispanic/Latino,Female,Democratic,75-79,243
+Hispanic/Latino,Female,Democratic,80-84,94
+Hispanic/Latino,Female,Democratic,85-89,36
+Hispanic/Latino,Female,Democratic,90-94,14
+Hispanic/Latino,Female,Democratic,95-99,1
+Hispanic/Latino,Female,Republican,18-24,237
+Hispanic/Latino,Female,Republican,25-29,180
+Hispanic/Latino,Female,Republican,30-34,237
+Hispanic/Latino,Female,Republican,35-39,328
+Hispanic/Latino,Female,Republican,40-44,402
+Hispanic/Latino,Female,Republican,45-49,519
+Hispanic/Latino,Female,Republican,50-54,685
+Hispanic/Latino,Female,Republican,55-59,666
+Hispanic/Latino,Female,Republican,60-64,626
+Hispanic/Latino,Female,Republican,65-69,496
+Hispanic/Latino,Female,Republican,70-74,295
+Hispanic/Latino,Female,Republican,75-79,197
+Hispanic/Latino,Female,Republican,80-84,79
+Hispanic/Latino,Female,Republican,85-89,26
+Hispanic/Latino,Female,Republican,90-94,6
+Hispanic/Latino,Female,Republican,100+,1
+Hispanic/Latino,Female,Nonpartisan,18-24,109
+Hispanic/Latino,Female,Nonpartisan,25-29,74
+Hispanic/Latino,Female,Nonpartisan,30-34,69
+Hispanic/Latino,Female,Nonpartisan,35-39,57
+Hispanic/Latino,Female,Nonpartisan,40-44,74
+Hispanic/Latino,Female,Nonpartisan,45-49,57
+Hispanic/Latino,Female,Nonpartisan,50-54,68
+Hispanic/Latino,Female,Nonpartisan,55-59,46
+Hispanic/Latino,Female,Nonpartisan,60-64,27
+Hispanic/Latino,Female,Nonpartisan,65-69,19
+Hispanic/Latino,Female,Nonpartisan,70-74,12
+Hispanic/Latino,Female,Nonpartisan,75-79,5
+Hispanic/Latino,Female,Nonpartisan,80-84,0
+Hispanic/Latino,Female,Nonpartisan,85-89,1
+Hispanic/Latino,Male,Democratic,18-24,2037
+Hispanic/Latino,Male,Democratic,25-29,1303
+Hispanic/Latino,Male,Democratic,30-34,1075
+Hispanic/Latino,Male,Democratic,35-39,819
+Hispanic/Latino,Male,Democratic,40-44,693
+Hispanic/Latino,Male,Democratic,45-49,718
+Hispanic/Latino,Male,Democratic,50-54,748
+Hispanic/Latino,Male,Democratic,55-59,758
+Hispanic/Latino,Male,Democratic,60-64,640
+Hispanic/Latino,Male,Democratic,65-69,552
+Hispanic/Latino,Male,Democratic,70-74,353
+Hispanic/Latino,Male,Democratic,75-79,196
+Hispanic/Latino,Male,Democratic,80-84,73
+Hispanic/Latino,Male,Democratic,85-89,22
+Hispanic/Latino,Male,Democratic,90-94,6
+Hispanic/Latino,Male,Democratic,100+,2
+Hispanic/Latino,Male,Republican,18-24,314
+Hispanic/Latino,Male,Republican,25-29,223
+Hispanic/Latino,Male,Republican,30-34,253
+Hispanic/Latino,Male,Republican,35-39,307
+Hispanic/Latino,Male,Republican,40-44,374
+Hispanic/Latino,Male,Republican,45-49,433
+Hispanic/Latino,Male,Republican,50-54,640
+Hispanic/Latino,Male,Republican,55-59,689
+Hispanic/Latino,Male,Republican,60-64,674
+Hispanic/Latino,Male,Republican,65-69,535
+Hispanic/Latino,Male,Republican,70-74,289
+Hispanic/Latino,Male,Republican,75-79,176
+Hispanic/Latino,Male,Republican,80-84,71
+Hispanic/Latino,Male,Republican,85-89,21
+Hispanic/Latino,Male,Nonpartisan,18-24,111
+Hispanic/Latino,Male,Nonpartisan,25-29,78
+Hispanic/Latino,Male,Nonpartisan,30-34,61
+Hispanic/Latino,Male,Nonpartisan,35-39,60
+Hispanic/Latino,Male,Nonpartisan,40-44,70
+Hispanic/Latino,Male,Nonpartisan,45-49,64
+Hispanic/Latino,Male,Nonpartisan,50-54,61
+Hispanic/Latino,Male,Nonpartisan,55-59,69
+Hispanic/Latino,Male,Nonpartisan,60-64,46
+Hispanic/Latino,Male,Nonpartisan,65-69,34
+Hispanic/Latino,Male,Nonpartisan,70-74,16
+Hispanic/Latino,Male,Nonpartisan,75-79,11
+Hispanic/Latino,Male,Nonpartisan,80-84,2
+Hispanic/Latino,Other,Democratic,18-24,58
+Hispanic/Latino,Other,Democratic,25-29,9
+Hispanic/Latino,Other,Democratic,30-34,4
+Hispanic/Latino,Other,Democratic,35-39,6
+Hispanic/Latino,Other,Democratic,40-44,3
+Hispanic/Latino,Other,Democratic,45-49,2
+Hispanic/Latino,Other,Democratic,50-54,3
+Hispanic/Latino,Other,Democratic,55-59,3
+Hispanic/Latino,Other,Democratic,60-64,2
+Hispanic/Latino,Other,Democratic,65-69,2
+Hispanic/Latino,Other,Democratic,70-74,2
+Hispanic/Latino,Other,Democratic,75-79,2
+Hispanic/Latino,Other,Republican,25-29,2
+Hispanic/Latino,Other,Republican,35-39,1
+Hispanic/Latino,Other,Republican,45-49,5
+Hispanic/Latino,Other,Republican,50-54,4
+Hispanic/Latino,Other,Republican,55-59,6
+Hispanic/Latino,Other,Republican,60-64,2
+Hispanic/Latino,Other,Republican,65-69,1
+Hispanic/Latino,Other,Republican,70-74,3
+Hispanic/Latino,Other,Nonpartisan,25-29,1
+Hispanic/Latino,Other,Nonpartisan,30-34,1
+Asian/Pacific Islander,Female,Democratic,18-24,1818
+Asian/Pacific Islander,Female,Democratic,25-29,1157
+Asian/Pacific Islander,Female,Democratic,30-34,1044
+Asian/Pacific Islander,Female,Democratic,35-39,973
+Asian/Pacific Islander,Female,Democratic,40-44,943
+Asian/Pacific Islander,Female,Democratic,45-49,1051
+Asian/Pacific Islander,Female,Democratic,50-54,847
+Asian/Pacific Islander,Female,Democratic,55-59,617
+Asian/Pacific Islander,Female,Democratic,60-64,569
+Asian/Pacific Islander,Female,Democratic,65-69,482
+Asian/Pacific Islander,Female,Democratic,70-74,310
+Asian/Pacific Islander,Female,Democratic,75-79,208
+Asian/Pacific Islander,Female,Democratic,80-84,59
+Asian/Pacific Islander,Female,Democratic,85-89,33
+Asian/Pacific Islander,Female,Democratic,90-94,9
+Asian/Pacific Islander,Female,Democratic,95-99,1
+Asian/Pacific Islander,Female,Republican,18-24,172
+Asian/Pacific Islander,Female,Republican,25-29,102
+Asian/Pacific Islander,Female,Republican,30-34,122
+Asian/Pacific Islander,Female,Republican,35-39,272
+Asian/Pacific Islander,Female,Republican,40-44,376
+Asian/Pacific Islander,Female,Republican,45-49,515
+Asian/Pacific Islander,Female,Republican,50-54,650
+Asian/Pacific Islander,Female,Republican,55-59,613
+Asian/Pacific Islander,Female,Republican,60-64,617
+Asian/Pacific Islander,Female,Republican,65-69,569
+Asian/Pacific Islander,Female,Republican,70-74,434
+Asian/Pacific Islander,Female,Republican,75-79,226
+Asian/Pacific Islander,Female,Republican,80-84,129
+Asian/Pacific Islander,Female,Republican,85-89,29
+Asian/Pacific Islander,Female,Republican,90-94,4
+Asian/Pacific Islander,Female,Nonpartisan,18-24,65
+Asian/Pacific Islander,Female,Nonpartisan,25-29,33
+Asian/Pacific Islander,Female,Nonpartisan,30-34,49
+Asian/Pacific Islander,Female,Nonpartisan,35-39,46
+Asian/Pacific Islander,Female,Nonpartisan,40-44,55
+Asian/Pacific Islander,Female,Nonpartisan,45-49,72
+Asian/Pacific Islander,Female,Nonpartisan,50-54,75
+Asian/Pacific Islander,Female,Nonpartisan,55-59,50
+Asian/Pacific Islander,Female,Nonpartisan,60-64,51
+Asian/Pacific Islander,Female,Nonpartisan,65-69,34
+Asian/Pacific Islander,Female,Nonpartisan,70-74,24
+Asian/Pacific Islander,Female,Nonpartisan,75-79,14
+Asian/Pacific Islander,Female,Nonpartisan,80-84,1
+Asian/Pacific Islander,Female,Nonpartisan,85-89,2
+Asian/Pacific Islander,Male,Democratic,18-24,1012
+Asian/Pacific Islander,Male,Democratic,25-29,784
+Asian/Pacific Islander,Male,Democratic,30-34,789
+Asian/Pacific Islander,Male,Democratic,35-39,705
+Asian/Pacific Islander,Male,Democratic,40-44,576
+Asian/Pacific Islander,Male,Democratic,45-49,613
+Asian/Pacific Islander,Male,Democratic,50-54,659
+Asian/Pacific Islander,Male,Democratic,55-59,545
+Asian/Pacific Islander,Male,Democratic,60-64,452
+Asian/Pacific Islander,Male,Democratic,65-69,423
+Asian/Pacific Islander,Male,Democratic,70-74,316
+Asian/Pacific Islander,Male,Democratic,75-79,205
+Asian/Pacific Islander,Male,Democratic,80-84,93
+Asian/Pacific Islander,Male,Democratic,85-89,43
+Asian/Pacific Islander,Male,Democratic,90-94,3
+Asian/Pacific Islander,Male,Republican,18-24,179
+Asian/Pacific Islander,Male,Republican,25-29,108
+Asian/Pacific Islander,Male,Republican,30-34,133
+Asian/Pacific Islander,Male,Republican,35-39,208
+Asian/Pacific Islander,Male,Republican,40-44,303
+Asian/Pacific Islander,Male,Republican,45-49,461
+Asian/Pacific Islander,Male,Republican,50-54,612
+Asian/Pacific Islander,Male,Republican,55-59,538
+Asian/Pacific Islander,Male,Republican,60-64,508
+Asian/Pacific Islander,Male,Republican,65-69,427
+Asian/Pacific Islander,Male,Republican,70-74,321
+Asian/Pacific Islander,Male,Republican,75-79,248
+Asian/Pacific Islander,Male,Republican,80-84,123
+Asian/Pacific Islander,Male,Republican,85-89,32
+Asian/Pacific Islander,Male,Republican,90-94,4
+Asian/Pacific Islander,Male,Republican,95-99,1
+Asian/Pacific Islander,Male,Nonpartisan,18-24,67
+Asian/Pacific Islander,Male,Nonpartisan,25-29,42
+Asian/Pacific Islander,Male,Nonpartisan,30-34,68
+Asian/Pacific Islander,Male,Nonpartisan,35-39,71
+Asian/Pacific Islander,Male,Nonpartisan,40-44,58
+Asian/Pacific Islander,Male,Nonpartisan,45-49,91
+Asian/Pacific Islander,Male,Nonpartisan,50-54,101
+Asian/Pacific Islander,Male,Nonpartisan,55-59,82
+Asian/Pacific Islander,Male,Nonpartisan,60-64,86
+Asian/Pacific Islander,Male,Nonpartisan,65-69,55
+Asian/Pacific Islander,Male,Nonpartisan,70-74,64
+Asian/Pacific Islander,Male,Nonpartisan,75-79,25
+Asian/Pacific Islander,Male,Nonpartisan,80-84,14
+Asian/Pacific Islander,Male,Nonpartisan,85-89,4
+Asian/Pacific Islander,Male,Nonpartisan,90-94,2
+Asian/Pacific Islander,Male,Nonpartisan,95-99,1
+Asian/Pacific Islander,Other,Democratic,18-24,22
+Asian/Pacific Islander,Other,Democratic,25-29,7
+Asian/Pacific Islander,Other,Democratic,30-34,7
+Asian/Pacific Islander,Other,Democratic,35-39,5
+Asian/Pacific Islander,Other,Democratic,40-44,4
+Asian/Pacific Islander,Other,Democratic,45-49,4
+Asian/Pacific Islander,Other,Democratic,50-54,4
+Asian/Pacific Islander,Other,Democratic,55-59,5
+Asian/Pacific Islander,Other,Democratic,65-69,4
+Asian/Pacific Islander,Other,Democratic,70-74,1
+Asian/Pacific Islander,Other,Democratic,75-79,1
+Asian/Pacific Islander,Other,Republican,18-24,5
+Asian/Pacific Islander,Other,Republican,25-29,1
+Asian/Pacific Islander,Other,Republican,35-39,1
+Asian/Pacific Islander,Other,Republican,40-44,1
+Asian/Pacific Islander,Other,Republican,45-49,2
+Asian/Pacific Islander,Other,Republican,50-54,2
+Asian/Pacific Islander,Other,Republican,55-59,3
+Asian/Pacific Islander,Other,Republican,60-64,2
+Asian/Pacific Islander,Other,Republican,65-69,5
+Asian/Pacific Islander,Other,Republican,70-74,4
+Asian/Pacific Islander,Other,Republican,75-79,2
+Asian/Pacific Islander,Other,Republican,80-84,1
+Asian/Pacific Islander,Other,Nonpartisan,18-24,1
+Asian/Pacific Islander,Other,Nonpartisan,35-39,1
+Asian/Pacific Islander,Other,Nonpartisan,40-44,1
+Asian/Pacific Islander,Other,Nonpartisan,75-79,1
+American Indian or Alaskan Native,Female,Democratic,18-24,801
+American Indian or Alaskan Native,Female,Democratic,25-29,489
+American Indian or Alaskan Native,Female,Democratic,30-34,570
+American Indian or Alaskan Native,Female,Democratic,35-39,444
+American Indian or Alaskan Native,Female,Democratic,40-44,361
+American Indian or Alaskan Native,Female,Democratic,45-49,315
+American Indian or Alaskan Native,Female,Democratic,50-54,270
+American Indian or Alaskan Native,Female,Democratic,55-59,189
+American Indian or Alaskan Native,Female,Democratic,60-64,154
+American Indian or Alaskan Native,Female,Democratic,65-69,90
+American Indian or Alaskan Native,Female,Democratic,70-74,72
+American Indian or Alaskan Native,Female,Democratic,75-79,40
+American Indian or Alaskan Native,Female,Democratic,80-84,17
+American Indian or Alaskan Native,Female,Democratic,85-89,2
+American Indian or Alaskan Native,Female,Democratic,90-94,2
+American Indian or Alaskan Native,Female,Republican,18-24,91
+American Indian or Alaskan Native,Female,Republican,25-29,48
+American Indian or Alaskan Native,Female,Republican,30-34,59
+American Indian or Alaskan Native,Female,Republican,35-39,50
+American Indian or Alaskan Native,Female,Republican,40-44,64
+American Indian or Alaskan Native,Female,Republican,45-49,73
+American Indian or Alaskan Native,Female,Republican,50-54,95
+American Indian or Alaskan Native,Female,Republican,55-59,106
+American Indian or Alaskan Native,Female,Republican,60-64,101
+American Indian or Alaskan Native,Female,Republican,65-69,75
+American Indian or Alaskan Native,Female,Republican,70-74,58
+American Indian or Alaskan Native,Female,Republican,75-79,26
+American Indian or Alaskan Native,Female,Republican,80-84,9
+American Indian or Alaskan Native,Female,Republican,85-89,0
+American Indian or Alaskan Native,Female,Republican,90-94,1
+American Indian or Alaskan Native,Female,Nonpartisan,18-24,32
+American Indian or Alaskan Native,Female,Nonpartisan,25-29,17
+American Indian or Alaskan Native,Female,Nonpartisan,30-34,19
+American Indian or Alaskan Native,Female,Nonpartisan,35-39,20
+American Indian or Alaskan Native,Female,Nonpartisan,40-44,27
+American Indian or Alaskan Native,Female,Nonpartisan,45-49,10
+American Indian or Alaskan Native,Female,Nonpartisan,50-54,11
+American Indian or Alaskan Native,Female,Nonpartisan,55-59,12
+American Indian or Alaskan Native,Female,Nonpartisan,60-64,2
+American Indian or Alaskan Native,Female,Nonpartisan,65-69,4
+American Indian or Alaskan Native,Female,Nonpartisan,70-74,1
+American Indian or Alaskan Native,Male,Democratic,18-24,405
+American Indian or Alaskan Native,Male,Democratic,25-29,251
+American Indian or Alaskan Native,Male,Democratic,30-34,289
+American Indian or Alaskan Native,Male,Democratic,35-39,200
+American Indian or Alaskan Native,Male,Democratic,40-44,161
+American Indian or Alaskan Native,Male,Democratic,45-49,129
+American Indian or Alaskan Native,Male,Democratic,50-54,103
+American Indian or Alaskan Native,Male,Democratic,55-59,95
+American Indian or Alaskan Native,Male,Democratic,60-64,83
+American Indian or Alaskan Native,Male,Democratic,65-69,69
+American Indian or Alaskan Native,Male,Democratic,70-74,34
+American Indian or Alaskan Native,Male,Democratic,75-79,21
+American Indian or Alaskan Native,Male,Democratic,80-84,7
+American Indian or Alaskan Native,Male,Democratic,85-89,4
+American Indian or Alaskan Native,Male,Republican,18-24,105
+American Indian or Alaskan Native,Male,Republican,25-29,54
+American Indian or Alaskan Native,Male,Republican,30-34,72
+American Indian or Alaskan Native,Male,Republican,35-39,89
+American Indian or Alaskan Native,Male,Republican,40-44,75
+American Indian or Alaskan Native,Male,Republican,45-49,55
+American Indian or Alaskan Native,Male,Republican,50-54,102
+American Indian or Alaskan Native,Male,Republican,55-59,117
+American Indian or Alaskan Native,Male,Republican,60-64,122
+American Indian or Alaskan Native,Male,Republican,65-69,84
+American Indian or Alaskan Native,Male,Republican,70-74,64
+American Indian or Alaskan Native,Male,Republican,75-79,33
+American Indian or Alaskan Native,Male,Republican,80-84,13
+American Indian or Alaskan Native,Male,Republican,85-89,3
+American Indian or Alaskan Native,Male,Republican,90-94,1
+American Indian or Alaskan Native,Male,Nonpartisan,18-24,23
+American Indian or Alaskan Native,Male,Nonpartisan,25-29,16
+American Indian or Alaskan Native,Male,Nonpartisan,30-34,25
+American Indian or Alaskan Native,Male,Nonpartisan,35-39,24
+American Indian or Alaskan Native,Male,Nonpartisan,40-44,12
+American Indian or Alaskan Native,Male,Nonpartisan,45-49,17
+American Indian or Alaskan Native,Male,Nonpartisan,50-54,18
+American Indian or Alaskan Native,Male,Nonpartisan,55-59,12
+American Indian or Alaskan Native,Male,Nonpartisan,60-64,7
+American Indian or Alaskan Native,Male,Nonpartisan,65-69,10
+American Indian or Alaskan Native,Male,Nonpartisan,70-74,1
+American Indian or Alaskan Native,Male,Nonpartisan,75-79,2
+American Indian or Alaskan Native,Other,Democratic,18-24,3
+American Indian or Alaskan Native,Other,Democratic,30-34,1
+American Indian or Alaskan Native,Other,Democratic,60-64,2
+American Indian or Alaskan Native,Other,Republican,45-49,1
+American Indian or Alaskan Native,Other,Republican,55-59,1
+American Indian or Alaskan Native,Other,Republican,70-74,1
