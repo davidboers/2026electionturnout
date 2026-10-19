@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
+import geopandas
 
 # TODO:
 # * Median age
@@ -185,3 +186,27 @@ print(primary_margins['Male'] - primary_margins['Female'])
 
 mk_pyramids(primary_df[primary_df['Party'] == 'Democratic'], 'demprimary2026.png', title='2026 Democratic Primary Voters', show_ex=True, share_scale=True)
 mk_pyramids(primary_df[primary_df['Party'] == 'Republican'], 'repprimary2026.png', title='2026 Republican Primary Voters', show_ex=True, share_scale=True)
+
+
+# County maps
+
+counties = geopandas.read_file('./GA-COUNTIES.json')
+counties['Sunday Voting'] = counties['name'].isin([c.upper() for c in sunday_counties])
+fig, ax = plt.subplots(figsize=(20, 20))
+counties[counties['Sunday Voting']].plot(ax=ax, color='green', edgecolor='black', linewidth=0.75, add_labels=False)
+counties[~counties['Sunday Voting']].plot(ax=ax, color='lightgray', edgecolor='black', linewidth=0.5, add_labels=False)
+ax.set_axis_off()
+ax.set_aspect('equal')
+ax.set_title('Counties with Early Voting on Sundays', pad=18)
+for _, county in counties[counties['Sunday Voting']].iterrows():
+    ax.annotate(
+        text=county['name'],
+        xy=county.geometry.centroid.coords[0],
+        ha='center',
+        va='center',
+        fontsize=9,
+        bbox=dict(boxstyle='round,pad=0.18', fc='white', ec='none', alpha=0.7),
+    )
+ax.text(0.5, 0.02, 'Created by Dawie Boers', alpha=0.5, fontsize=12, transform=ax.transAxes, ha='center')
+fig.subplots_adjust(left=0.02, right=0.98, bottom=0.04, top=0.96)
+ax.figure.savefig('./pics/sunday.png', format='png', dpi=200, bbox_inches='tight', pad_inches=0.2)
