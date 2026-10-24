@@ -158,6 +158,13 @@ def mk_pyramids(df: pd.DataFrame, output_path: str, title: str, show_ex: bool = 
 mk_pyramids(df, 'total.png', title='Georgia Registered Voters - 2026 general election', show_ex=True, pivot_path='total.csv')
 mk_pyramids(df, 'total_same_scale.png', title='Georgia Registered Voters - 2026 general election', show_ex=True, share_scale=True)
 
+print('Total voters: ', end='')
+print(df['Voter Count'].sum())
+print('Inactive voters: ', end='')
+print(df[df['Voter Status'] == 'Inactive']['Voter Count'].sum())
+print('Active voters: ', end='')
+print(df[df['Voter Status'] == 'Active']['Voter Count'].sum())
+
 # Primary
 nullcolor = '#fff5f5'
 party_color_dict = {
@@ -210,3 +217,4 @@ for _, county in counties[counties['Sunday Voting']].iterrows():
 ax.text(0.5, 0.02, 'Created by Dawie Boers', alpha=0.5, fontsize=12, transform=ax.transAxes, ha='center')
 fig.subplots_adjust(left=0.02, right=0.98, bottom=0.04, top=0.96)
 ax.figure.savefig('./pics/sunday.png', format='png', dpi=200, bbox_inches='tight', pad_inches=0.2)
+
