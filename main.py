@@ -14,20 +14,20 @@ import geopandas
 generations = pd.Series({
     '18-24': 'Gen Z',
     '25-29': 'Gen Z',
-    '30-34': 'Millenials',
-    '35-39': 'Millenials',
-    '40-44': 'Millenials',
-    '45-49': 'Gen X',
-    '50-54': 'Gen X',
-    '55-59': 'Gen X',
-    '60-64': 'Boomers',
-    '65-69': 'Boomers',
-    '70-74': 'Boomers',
-    '75-79': 'Boomers',
-    '80-84': 'Silent',
-    '85-89': 'Silent',
-    '90-94': 'Silent',
-    '95-99': 'Silent',
+    '30-34': 'Millennials',
+    '35-40': 'Millennials',
+    '40-45': 'Millennials',
+    '45-50': 'Gen X',
+    '50-55': 'Gen X',
+    '55-60': 'Gen X',
+    '60-65': 'Boomers',
+    '65-70': 'Boomers',
+    '70-75': 'Boomers',
+    '75-80': 'Boomers',
+    '80-85': 'Silent',
+    '85-90': 'Silent',
+    '90-95': 'Silent',
+    '95-100': 'Silent',
     '100+': 'Greatest'
 })
 
@@ -218,3 +218,10 @@ ax.text(0.5, 0.02, 'Created by Dawie Boers', alpha=0.5, fontsize=12, transform=a
 fig.subplots_adjust(left=0.02, right=0.98, bottom=0.04, top=0.96)
 ax.figure.savefig('./pics/sunday.png', format='png', dpi=200, bbox_inches='tight', pad_inches=0.2)
 
+df['Generation'] = df['Age Group'].map(generations)
+df.loc[df['Generation'].isin(['Greatest', 'Silent']), 'Generation1'] = 'Silent & Greatest'
+age_gender_pivot = df.pivot_table(values='Voter Count', index=['Generation1'], columns='Gender', aggfunc='sum', dropna=True)
+age_gender_pivot = age_gender_pivot.div(age_gender_pivot.sum(axis=1), axis=0) * 100
+print(age_gender_pivot)
+
+print(df[df['Voter Status'] == 'Active'].pivot_table(values='Voter Count', index=['Generation'], aggfunc='sum'))
